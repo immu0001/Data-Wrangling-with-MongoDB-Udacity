@@ -4,4 +4,5 @@ Udacity Data Wrangling with MongoDB Class work files
 # Lessons:
 
 ## Lesson 01: Data Extraction Fundamentals
-## Lesson 02: Data Ex
+## Lesson 02: Data in More Complex Formats
+## 
